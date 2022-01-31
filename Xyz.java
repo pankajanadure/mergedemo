@@ -2,6 +2,7 @@ class Xyz
 {
 	public void demo()
 	{
-		System.out.println("Just for Demo");
+		int x = 10;
+		return x*x;
 	}
 }
