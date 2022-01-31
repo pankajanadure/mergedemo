@@ -7,5 +7,6 @@ public class A
 	public void register()
 	{
 		new PrintWriter(System.out).println("Register through GMail/Facebook");
+		System.out.println("Implementing Registration feature");
 	}
 }
